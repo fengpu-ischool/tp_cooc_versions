@@ -1,0 +1,13 @@
+{
+	"forceUpdate": {
+		"prompt": "恭喜你, 有新的更新可以下載!",
+		"ios": {
+			"version": "1.0",
+			"build": "69"
+		},
+		"android": {
+			"version": "1.0.3",
+			"build": "3"
+		}
+	}
+}
